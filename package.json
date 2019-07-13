@@ -1,0 +1,13 @@
+{
+  "name": "s",
+  "private": true,
+  "main": "index.js",
+  "bin": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "get-port": "^5.0.0",
+    "ip": "^1.1.5",
+    "open": "^6.4.0"
+  }
+}
